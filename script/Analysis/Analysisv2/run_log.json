@@ -1,0 +1,38 @@
+[
+  {
+    "region": "Maharashtra",
+    "phase": "A",
+    "success": true,
+    "elapsed_s": 95.7
+  },
+  {
+    "region": "Maharashtra",
+    "phase": "B",
+    "success": true,
+    "elapsed_s": 12.5
+  },
+  {
+    "region": "Maharashtra",
+    "phase": "C",
+    "success": false,
+    "elapsed_s": 176.1
+  },
+  {
+    "region": "Thailand",
+    "phase": "A",
+    "success": true,
+    "elapsed_s": 185.6
+  },
+  {
+    "region": "Thailand",
+    "phase": "B",
+    "success": true,
+    "elapsed_s": 7.3
+  },
+  {
+    "region": "Thailand",
+    "phase": "C",
+    "success": false,
+    "elapsed_s": 218.4
+  }
+]
